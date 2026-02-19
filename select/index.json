@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ケダモノのフレンズ",
+  "base_artist": "にしな",
+  "createdAt": "2026-02-19T09:01:37.663473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ケダモノのフレンズ",
+      "artist": "nishina",
+      "has_synced": true,
+      "path": "select/01_ケダモノのフレンズ_nishina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ケダモノのフレンズ",
+      "artist": "にしな",
+      "has_synced": true,
+      "path": "select/02_ケダモノのフレンズ_にしな.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケダモノのフレンズ",
+      "artist": "にしな",
+      "has_synced": false,
+      "path": "select/pl_01_ケダモノのフレンズ_にしな.txt"
+    }
+  ]
+}
